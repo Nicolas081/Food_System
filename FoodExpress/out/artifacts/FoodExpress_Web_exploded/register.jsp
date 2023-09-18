@@ -46,7 +46,7 @@
                     </div>
                     <div class="mb-3">
                         <label for="email" class="form-label">电话</label>
-                        <input type="email" class="form-control" id="email" placeholder="请输入电话">
+                        <input type="tel" class="form-control" id="email" placeholder="请输入电话">
                     </div>
                     <div class="mb-3">
                         <label for="password" class="form-label">密码</label>

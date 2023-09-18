@@ -64,7 +64,7 @@
                         </select>
                     </div>
                     <div class="text-center mt-3">
-                        <p>没有账号？<a href="register.jsp" class="btn-register">点击注册</a></p>
+                        <p>你麻麻的，没有账号？<a href="register.jsp" class="btn-register">点击注册</a></p>
                     </div>
                     <div class="d-grid gap-2">
                         <button type="submit" class="btn btn-primary">登录</button>
